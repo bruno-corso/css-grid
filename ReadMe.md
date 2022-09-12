@@ -1,0 +1,1 @@
+Simple project explaining CSS Grid functionalities.
